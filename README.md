@@ -1,1 +1,1 @@
-# Projeto-copa-do-mundo
+# ⚽ Minicurso FLAI Data Science na Copa
